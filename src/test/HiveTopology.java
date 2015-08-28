@@ -37,10 +37,10 @@ import java.sql.DriverManager;
 
 
 public class HiveTopology {
-	static final String TWITTER_CONSUMER_KEY = "";
-	static final String TWITTER_CONSUMER_SECRET = "";
-	static final String	TWITTER_TOKEN = "";
-	static final String	TWITTER_TOKEN_SECRET = "";
+	static final String TWITTER_CONSUMER_KEY = "peoWYRcMozHTaZ5QmybkeWV0i";
+	static final String TWITTER_CONSUMER_SECRET = "p0lv3fHg2mrD6a8N7Qr1a8cxVqiaRE5sXPJTNeTpmde0V72Eo0";
+	static final String	TWITTER_TOKEN = "415304307-7vtUzQJl3gu2mQQ7Hwtq9SsCfdJpbM6OqfBV3LbJ";
+	static final String	TWITTER_TOKEN_SECRET = "zF4xopbvmCSNPgKU5JSkTdNhMmORcJQdu6KFYdDlQMkiT";
 	
 						
     static final String USER_SPOUT_ID = "twitter-spout";
